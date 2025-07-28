@@ -37,3 +37,7 @@ terminal deer
 3. git commit -m "Uurchlultunduu ner uguh"
 4. git push
 5. gertee ochood or angi deer ired git pull
+
+- code runner bhgui ued run code hiih
+- ctrl ~ -> daraad vscode deer terminal garch irne
+- node file ner bichih -> node space avaad file ner bichih
