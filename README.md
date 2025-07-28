@@ -12,3 +12,5 @@ git clone
 2. git add .
 3. git commit -m "ddfjkhkf"
 4. git push
+
+5. angi deer ired git pull
